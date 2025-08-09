@@ -1,0 +1,597 @@
+[09Aug2025 20:48:51.467] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[09Aug2025 20:48:51.471] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.28 by Ubuntu
+[09Aug2025 20:48:52.626] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[09Aug2025 20:48:52.771] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/NSTX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[09Aug2025 20:48:52.823] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/NSTX/servidor_minecraft/config/fml.toml is not correct. Correcting
+[09Aug2025 20:48:52.830] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[09Aug2025 20:48:54.316] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Aug2025 20:48:54.439] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Aug2025 20:48:54.453] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Aug2025 20:48:54.464] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Aug2025 20:48:54.474] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Aug2025 20:48:56.799] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[09Aug2025 20:49:10.129] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[09Aug2025 20:49:10.258] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[09Aug2025 20:49:10.629] [modloading-worker-0/INFO] [Pixelmon/]: Patched lifecycle fields.
+[09Aug2025 20:49:17.963] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
+[09Aug2025 20:49:18.454] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
+[09Aug2025 20:49:18.564] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[09Aug2025 20:49:18.649] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
+[09Aug2025 20:49:18.670] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[09Aug2025 20:49:18.725] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
+[09Aug2025 20:49:20.459] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
+[09Aug2025 20:49:20.468] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
+[09Aug2025 20:49:20.485] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
+[09Aug2025 20:49:20.520] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
+[09Aug2025 20:49:20.618] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
+[09Aug2025 20:49:20.622] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
+[09Aug2025 20:49:20.766] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/NSTX/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[09Aug2025 20:49:20.767] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Aug2025 20:49:20.768] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[09Aug2025 20:49:20.780] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/NSTX/servidor_minecraft/config/explorerscompass-common.toml is not correct. Correcting
+[09Aug2025 20:49:20.781] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Aug2025 20:49:20.782] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.allowTeleport was corrected from null to its default, true. 
+[09Aug2025 20:49:20.783] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.displayCoordinates was corrected from null to its default, true. 
+[09Aug2025 20:49:20.784] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.maxRadius was corrected from null to its default, 5000. 
+[09Aug2025 20:49:20.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.structureBlacklist was corrected from null to its default, []. 
+[09Aug2025 20:49:20.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.maxSamples was corrected from null to its default, 50000. 
+[09Aug2025 20:49:20.794] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/NSTX/servidor_minecraft/config/naturescompass-common.toml is not correct. Correcting
+[09Aug2025 20:49:20.795] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Aug2025 20:49:20.797] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.allowTeleport was corrected from null to its default, true. 
+[09Aug2025 20:49:20.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.displayCoordinates was corrected from null to its default, true. 
+[09Aug2025 20:49:20.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.radiusModifier was corrected from null to its default, 2500. 
+[09Aug2025 20:49:20.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.sampleSpaceModifier was corrected from null to its default, 16. 
+[09Aug2025 20:49:20.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.biomeBlacklist was corrected from null to its default, []. 
+[09Aug2025 20:49:20.802] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.maxSamples was corrected from null to its default, 50000. 
+[09Aug2025 20:49:20.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Aug2025 20:49:20.887] [modloading-worker-0/INFO] [Pixelmon TCG/]: Loading TCG version 9.1.11
+[09Aug2025 20:49:20.929] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registering forge reset packet
+[09Aug2025 20:49:20.936] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registered forge reset packet
+[09Aug2025 20:49:20.936] [modloading-worker-1/INFO] [Pixelmon/]: Loading Pixelmon version 9.1.11
+[09Aug2025 20:49:21.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[09Aug2025 20:49:22.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[09Aug2025 20:49:22.119] [modloading-worker-0/INFO] [Pixelmon TCG/]: Initializing Pixelmon TCG v9.1.11
+[09Aug2025 20:49:22.142] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[09Aug2025 20:49:22.380] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[09Aug2025 20:49:22.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[09Aug2025 20:49:22.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Found status: OUTDATED Current: 9.1.11 Target: 9.1.13
+[09Aug2025 20:49:22.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Starting version check at https://reforged.gg/forge/update.json
+[09Aug2025 20:49:22.657] [modloading-worker-1/INFO] [Pixelmon/]: Loaded Advancements
+[09Aug2025 20:49:22.728] [modloading-worker-1/INFO] [Pixelmon/]: Started the async storage scheduler.
+[09Aug2025 20:49:22.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Found status: OUTDATED Current: 9.1.11 Target: 9.1.13
+[09Aug2025 20:49:23.352] [main/INFO] [journeymap/]: Initializing Packet Registries
+[09Aug2025 20:49:23.613] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Atlases for invalid dist DEDICATED_SERVER
+[09Aug2025 20:49:24.067] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
+[09Aug2025 20:49:24.068] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
+[09Aug2025 20:49:24.071] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
+[09Aug2025 20:49:24.073] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
+[09Aug2025 20:49:32.788] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Aug2025 20:49:33.934] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, ] and [spectate, target] with inputs: [words with spaces, "and symbols", word]
+[09Aug2025 20:49:33.937] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, target] and [spectate, ] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Aug2025 20:49:33.948] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Aug2025 20:49:33.951] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Aug2025 20:49:33.952] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Aug2025 20:49:33.955] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Aug2025 20:49:33.958] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Aug2025 20:49:33.962] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[09Aug2025 20:49:33.965] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[09Aug2025 20:49:34.129] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.3.jar, Pixelmon-1.16.5-9.1.11-server.jar, byg-1.3.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, NaturesCompass-1.16.5-1.9.1-forge.jar
+[09Aug2025 20:49:41.663] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[09Aug2025 20:49:43.082] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1975 advancements
+[09Aug2025 20:49:44.794] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.819] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.821] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.823] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.858] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.896] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.907] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.936] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.964] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.993] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:44.997] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.021] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.139] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.179] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.255] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.293] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.365] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.413] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.418] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.431] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.496] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.538] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.543] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.624] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.634] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.647] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.655] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.668] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.671] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.703] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.715] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.728] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:45.733] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.120] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.269] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.283] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.307] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.357] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.359] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.378] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.387] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.429] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.441] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.450] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.498] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.517] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Blood Moon
+[09Aug2025 20:49:46.518] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.574] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.586] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.620] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.626] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.655] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.672] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.731] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.733] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.734] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.747] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.752] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.783] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.827] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.838] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Syrup Bomb
+[09Aug2025 20:49:46.839] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.896] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.905] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.921] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.923] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.924] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.936] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.940] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:46.995] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.006] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.011] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.090] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.113] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.164] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.172] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.186] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.208] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.270] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.272] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.295] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.299] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.327] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.330] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.337] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.349] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.355] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.411] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.428] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.431] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Ivy Cudgel
+[09Aug2025 20:49:47.432] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.451] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.486] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.511] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.517] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.561] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.566] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.572] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.576] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.591] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Matcha Gotcha
+[09Aug2025 20:49:47.591] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.595] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.603] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.661] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.717] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.738] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.777] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.779] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.781] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.793] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.808] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.819] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.877] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.884] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.891] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.977] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.988] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.990] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:47.992] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.012] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.018] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.059] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.078] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.081] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.108] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.315] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:48.324] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Tera Blast
+[09Aug2025 20:49:49.120] [Worker-Main-2/INFO] [Pixelmon/]: Registering Better Spawner.
+[09Aug2025 20:49:49.810] [Worker-Main-2/INFO] [Pixelmon/]: Registering trades.
+[09Aug2025 20:49:49.854] [Worker-Main-2/INFO] [Pixelmon/]: Registering shop items.
+[09Aug2025 20:49:57.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[09Aug2025 20:49:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Aug2025 20:49:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Aug2025 20:49:57.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Aug2025 20:49:57.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Aug2025 20:49:57.807] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[09Aug2025 20:49:58.013] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Aug2025 20:49:58.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Aug2025 20:49:58.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Aug2025 20:49:58.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Aug2025 20:49:58.059] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/journeymap-server.toml is not correct. Correcting
+[09Aug2025 20:49:58.064] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Aug2025 20:49:58.065] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
+[09Aug2025 20:49:58.065] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
+[09Aug2025 20:49:58.069] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Aug2025 20:49:58.070] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Aug2025 20:49:58.074] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Aug2025 20:49:58.077] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Aug2025 20:49:58.077] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[09Aug2025 20:49:58.078] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Aug2025 20:49:58.079] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[09Aug2025 20:49:58.079] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[09Aug2025 20:49:58.080] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[09Aug2025 20:49:58.082] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[09Aug2025 20:49:58.085] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[09Aug2025 20:49:58.086] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[09Aug2025 20:49:58.086] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[09Aug2025 20:49:58.087] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[09Aug2025 20:49:58.087] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[09Aug2025 20:49:58.092] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[09Aug2025 20:49:58.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Aug2025 20:50:07.811] [Worker-Main-2/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-975, y=71, z=-189}
+[09Aug2025 20:50:07.813] [Worker-Main-2/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-975, y=71, z=-189}
+[09Aug2025 20:50:09.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Aug2025 20:50:09.785] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:10.124] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:10.613] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:11.116] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:11.615] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:12.394] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Aug2025 20:50:12.621] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[09Aug2025 20:50:13.130] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[09Aug2025 20:50:13.692] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[09Aug2025 20:50:14.162] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[09Aug2025 20:50:14.672] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[09Aug2025 20:50:15.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=top] but failed at location BlockPos{x=-954, y=67, z=-178}
+[09Aug2025 20:50:15.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=bottom] but failed at location BlockPos{x=-956, y=66, z=-178}
+[09Aug2025 20:50:15.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=south,multipos=base] but failed at location BlockPos{x=-953, y=66, z=-181}
+[09Aug2025 20:50:15.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=south,multipos=top] but failed at location BlockPos{x=-955, y=67, z=-178}
+[09Aug2025 20:50:15.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_pc}[facing=east,multipos=top] but failed at location BlockPos{x=-950, y=67, z=-183}
+[09Aug2025 20:50:15.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=east,multipos=bottom] but failed at location BlockPos{x=-954, y=66, z=-178}
+[09Aug2025 20:50:15.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=west] but failed at location BlockPos{x=-953, y=66, z=-184}
+[09Aug2025 20:50:15.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=west] but failed at location BlockPos{x=-954, y=66, z=-184}
+[09Aug2025 20:50:15.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=-954, y=66, z=-181}
+[09Aug2025 20:50:15.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_trade_machine}[facing=west,multipos=top] but failed at location BlockPos{x=-956, y=67, z=-178}
+[09Aug2025 20:50:15.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:red_cushion_chair}[facing=west] but failed at location BlockPos{x=-955, y=66, z=-184}
+[09Aug2025 20:50:15.146] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[09Aug2025 20:50:15.683] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[09Aug2025 20:50:15.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=north,multipos=base] but failed at location BlockPos{x=-974, y=66, z=-187}
+[09Aug2025 20:50:15.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=top] but failed at location BlockPos{x=-971, y=72, z=-184}
+[09Aug2025 20:50:15.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=-973, y=66, z=-187}
+[09Aug2025 20:50:15.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=top,on=false] but failed at location BlockPos{x=-975, y=72, z=-189}
+[09Aug2025 20:50:15.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=top] but failed at location BlockPos{x=-971, y=72, z=-190}
+[09Aug2025 20:50:15.695] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=-973, y=67, z=-184}
+[09Aug2025 20:50:15.695] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=-971, y=67, z=-184}
+[09Aug2025 20:50:15.695] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=north] but failed at location BlockPos{x=-972, y=71, z=-184}
+[09Aug2025 20:50:15.695] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=west] but failed at location BlockPos{x=-971, y=71, z=-185}
+[09Aug2025 20:50:15.695] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=top] but failed at location BlockPos{x=-971, y=73, z=-184}
+[09Aug2025 20:50:15.696] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_vending_machine}[facing=south,multipos=top] but failed at location BlockPos{x=-975, y=67, z=-184}
+[09Aug2025 20:50:15.696] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=south,multipos=base] but failed at location BlockPos{x=-971, y=71, z=-184}
+[09Aug2025 20:50:15.696] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=base] but failed at location BlockPos{x=-971, y=71, z=-190}
+[09Aug2025 20:50:15.696] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=east] but failed at location BlockPos{x=-973, y=71, z=-185}
+[09Aug2025 20:50:15.696] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_folding_chair}[facing=south] but failed at location BlockPos{x=-972, y=71, z=-186}
+[09Aug2025 20:50:15.697] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:tv}[facing=north,multipos=base,on=false] but failed at location BlockPos{x=-975, y=71, z=-189}
+[09Aug2025 20:50:15.697] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_umbrella}[facing=north,multipos=top] but failed at location BlockPos{x=-971, y=73, z=-190}
+[09Aug2025 20:50:16.145] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[09Aug2025 20:50:16.631] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[09Aug2025 20:50:17.119] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[09Aug2025 20:50:17.641] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[09Aug2025 20:50:18.135] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[09Aug2025 20:50:18.556] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=south,multipos=bottom] but failed at location BlockPos{x=-977, y=67, z=-185}
+[09Aug2025 20:50:18.556] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:blue_rug}[facing=east,multipos=base] but failed at location BlockPos{x=-977, y=67, z=-186}
+[09Aug2025 20:50:18.624] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[09Aug2025 20:50:18.689] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=-992, y=73, z=-195}
+[09Aug2025 20:50:18.690] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_gray_rug}[facing=south,multipos=base] but failed at location BlockPos{x=-992, y=72, z=-197}
+[09Aug2025 20:50:19.116] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[09Aug2025 20:50:19.623] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[09Aug2025 20:50:20.117] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 12%
+[09Aug2025 20:50:20.633] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 12%
+[09Aug2025 20:50:21.115] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[09Aug2025 20:50:21.527] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:gray_rug}[facing=north,multipos=base] but failed at location BlockPos{x=-993, y=73, z=-195}
+[09Aug2025 20:50:21.527] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_rug}[facing=north,multipos=base] but failed at location BlockPos{x=-996, y=73, z=-198}
+[09Aug2025 20:50:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fan}[facing=east] but failed at location BlockPos{x=-997, y=75, z=-196}
+[09Aug2025 20:50:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_rug}[facing=east,multipos=bottom] but failed at location BlockPos{x=-995, y=73, z=-198}
+[09Aug2025 20:50:21.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=-995, y=77, z=-199}
+[09Aug2025 20:50:21.531] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:fossil_display}[facing=west,multipos=top] but failed at location BlockPos{x=-997, y=73, z=-199}
+[09Aug2025 20:50:21.533] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_armchair}[facing=south] but failed at location BlockPos{x=-997, y=77, z=-199}
+[09Aug2025 20:50:21.533] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=north] but failed at location BlockPos{x=-995, y=72, z=-197}
+[09Aug2025 20:50:21.534] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=west] but failed at location BlockPos{x=-994, y=72, z=-198}
+[09Aug2025 20:50:21.534] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:light_gray_rug}[facing=west,multipos=bottom] but failed at location BlockPos{x=-993, y=72, z=-197}
+[09Aug2025 20:50:21.534] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=east] but failed at location BlockPos{x=-997, y=72, z=-198}
+[09Aug2025 20:50:21.534] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=south] but failed at location BlockPos{x=-996, y=72, z=-199}
+[09Aug2025 20:50:21.536] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=north] but failed at location BlockPos{x=-996, y=72, z=-197}
+[09Aug2025 20:50:21.536] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:brown_cushion_chair}[facing=south] but failed at location BlockPos{x=-995, y=72, z=-199}
+[09Aug2025 20:50:21.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_chair}[facing=south] but failed at location BlockPos{x=-994, y=66, z=-126}
+[09Aug2025 20:50:21.572] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=north,multipos=top] but failed at location BlockPos{x=-993, y=67, z=-129}
+[09Aug2025 20:50:21.613] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[09Aug2025 20:50:22.113] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[09Aug2025 20:50:22.638] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[09Aug2025 20:50:23.113] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 19%
+[09Aug2025 20:50:23.612] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 19%
+[09Aug2025 20:50:24.122] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[09Aug2025 20:50:24.612] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 22%
+[09Aug2025 20:50:25.115] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[09Aug2025 20:50:25.721] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 24%
+[09Aug2025 20:50:26.121] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 24%
+[09Aug2025 20:50:26.618] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[09Aug2025 20:50:27.118] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 27%
+[09Aug2025 20:50:27.618] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
+[09Aug2025 20:50:28.113] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
+[09Aug2025 20:50:28.612] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[09Aug2025 20:50:29.134] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[09Aug2025 20:50:29.715] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 33%
+[09Aug2025 20:50:30.121] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 34%
+[09Aug2025 20:50:30.655] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[09Aug2025 20:50:31.178] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 37%
+[09Aug2025 20:50:31.621] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[09Aug2025 20:50:32.284] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[09Aug2025 20:50:32.613] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[09Aug2025 20:50:33.133] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[09Aug2025 20:50:33.664] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[09Aug2025 20:50:34.155] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[09Aug2025 20:50:34.613] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
+[09Aug2025 20:50:35.158] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[09Aug2025 20:50:35.645] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[09Aug2025 20:50:36.126] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 52%
+[09Aug2025 20:50:36.619] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 54%
+[09Aug2025 20:50:37.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[09Aug2025 20:50:37.689] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
+[09Aug2025 20:50:38.113] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[09Aug2025 20:50:38.617] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 59%
+[09Aug2025 20:50:39.112] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 60%
+[09Aug2025 20:50:39.701] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[09Aug2025 20:50:40.136] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 63%
+[09Aug2025 20:50:40.623] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 65%
+[09Aug2025 20:50:41.128] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[09Aug2025 20:50:41.622] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[09Aug2025 20:50:42.116] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 70%
+[09Aug2025 20:50:42.615] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[09Aug2025 20:50:43.112] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 73%
+[09Aug2025 20:50:43.621] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[09Aug2025 20:50:44.112] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
+[09Aug2025 20:50:44.620] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 79%
+[09Aug2025 20:50:45.155] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 81%
+[09Aug2025 20:50:45.618] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[09Aug2025 20:50:46.158] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[09Aug2025 20:50:46.628] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[09Aug2025 20:50:47.136] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[09Aug2025 20:50:47.646] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[09Aug2025 20:50:48.118] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[09Aug2025 20:50:48.623] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[09Aug2025 20:50:49.131] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[09Aug2025 20:50:49.620] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[09Aug2025 20:50:50.114] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[09Aug2025 20:50:50.620] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[09Aug2025 20:50:50.910] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 41298 ms
+[09Aug2025 20:50:50.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (52.868s)! For help, type "help"
+[09Aug2025 20:50:51.150] [Server thread/INFO] [journeymap/]: global (FirstLoaded) Setting config file to version "5.8.3": journeymap.server.global.config
+[09Aug2025 20:50:51.153] [Server thread/INFO] [journeymap/]: global (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.global.config
+[09Aug2025 20:50:51.182] [Server thread/INFO] [journeymap/]: default (FirstLoaded) Setting config file to version "5.8.3": journeymap.server.default.config
+[09Aug2025 20:50:51.183] [Server thread/INFO] [journeymap/]: default (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.default.config
+[09Aug2025 20:50:51.191] [Server thread/INFO] [journeymap/]: minecraft~overworld (Initialized) Setting config file to version "5.8.3": journeymap.server.minecraft~overworld.config
+[09Aug2025 20:50:51.192] [Server thread/INFO] [journeymap/]: minecraft~overworld (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.minecraft~overworld.config
+[09Aug2025 20:50:51.204] [Server thread/INFO] [journeymap/]: minecraft~the_nether (Initialized) Setting config file to version "5.8.3": journeymap.server.minecraft~the_nether.config
+[09Aug2025 20:50:51.208] [Server thread/INFO] [journeymap/]: minecraft~the_nether (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.minecraft~the_nether.config
+[09Aug2025 20:50:51.216] [Server thread/INFO] [journeymap/]: minecraft~the_end (Initialized) Setting config file to version "5.8.3": journeymap.server.minecraft~the_end.config
+[09Aug2025 20:50:51.217] [Server thread/INFO] [journeymap/]: minecraft~the_end (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.minecraft~the_end.config
+[09Aug2025 20:50:51.221] [Server thread/INFO] [journeymap/]: pixelmon~drowned_world (Initialized) Setting config file to version "5.8.3": journeymap.server.pixelmon~drowned_world.config
+[09Aug2025 20:50:51.223] [Server thread/INFO] [journeymap/]: pixelmon~drowned_world (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.pixelmon~drowned_world.config
+[09Aug2025 20:50:51.228] [Server thread/INFO] [journeymap/]: pixelmon~ultra_space (Initialized) Setting config file to version "5.8.3": journeymap.server.pixelmon~ultra_space.config
+[09Aug2025 20:50:51.230] [Server thread/INFO] [journeymap/]: pixelmon~ultra_space (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.pixelmon~ultra_space.config
+[09Aug2025 20:50:51.242] [Server thread/INFO] [Pixelmon/]: Datapacks found: vanilla,mod:forge,mod:journeymap,mod:pixelmon,mod:byg,mod:explorerscompass,mod:naturescompass
+[09Aug2025 20:57:51.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Aug2025 20:57:51.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: off<--[HERE]
+[09Aug2025 20:57:57.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[09Aug2025 20:57:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (base|get|modifier)
+[09Aug2025 20:57:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[09Aug2025 20:57:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[09Aug2025 20:57:57.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[09Aug2025 20:57:57.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /battlelog [<>]
+[09Aug2025 20:57:57.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /battletests [<>]
+[09Aug2025 20:57:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
+[09Aug2025 20:57:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /breed [<>]
+[09Aug2025 20:57:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /catchingcharm [<>]
+[09Aug2025 20:57:57.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cedit [<>]
+[09Aug2025 20:57:57.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /checkspawns [<>]
+[09Aug2025 20:57:57.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[09Aug2025 20:57:57.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[09Aug2025 20:57:57.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /compedit [<>]
+[09Aug2025 20:57:57.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /completeallquests [<>]
+[09Aug2025 20:57:57.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /compsearch [<>]
+[09Aug2025 20:57:57.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /compsee [<>]
+[09Aug2025 20:57:57.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /comptake [<>]
+[09Aug2025 20:57:57.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /comptest [<>]
+[09Aug2025 20:57:57.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[09Aug2025 20:57:57.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ctake [<>]
+[09Aug2025 20:57:57.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|modify|remove)
+[09Aug2025 20:57:57.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
+[09Aug2025 20:57:57.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (report|start|stop)
+[09Aug2025 20:57:57.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
+[09Aug2025 20:57:57.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[09Aug2025 20:57:57.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /devspritecheck [<>]
+[09Aug2025 20:57:57.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /devtempparty [<>]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dexcheck [<>]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /disablebattle [<>]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dolegendaryspawn [<>]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dynamaxband [<>]
+[09Aug2025 20:57:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[09Aug2025 20:57:57.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /eggsteps [<>]
+[09Aug2025 20:57:57.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[09Aug2025 20:57:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /endbattle [<>]
+[09Aug2025 20:57:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /evolve [<>]
+[09Aug2025 20:57:57.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /evs [<>]
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /expcharm [<>]
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fallback -> fallbackserver
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fallbackserver <Player(s)> <Server Address>
+[09Aug2025 20:57:57.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[09Aug2025 20:57:57.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fillcurrydex [<>]
+[09Aug2025 20:57:57.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /filldex [<>]
+[09Aug2025 20:57:57.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
+[09Aug2025 20:57:57.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
+[09Aug2025 20:57:57.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fossil [<>]
+[09Aug2025 20:57:57.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /freeze [<>]
+[09Aug2025 20:57:57.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[09Aug2025 20:57:57.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
+[09Aug2025 20:57:57.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[09Aug2025 20:57:57.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gendata <modid>
+[09Aug2025 20:57:57.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gift [<>]
+[09Aug2025 20:57:57.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[09Aug2025 20:57:57.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /givemoney [<>]
+[09Aug2025 20:57:57.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /givepixelsprite [<>]
+[09Aug2025 20:57:57.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /hatch [<>]
+[09Aug2025 20:57:57.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[09Aug2025 20:57:57.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /hiddenpower [<>]
+[09Aug2025 20:57:57.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ifplayercannotredirect <Player(s)> <Command...>
+[09Aug2025 20:57:57.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ifplayercanredirect <Player(s)> <Command...>
+[09Aug2025 20:57:57.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ivs [<>]
+[09Aug2025 20:57:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[09Aug2025 20:57:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[09Aug2025 20:57:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /learnmove [<>]
+[09Aug2025 20:57:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /legendaryspawn [<>]
+[09Aug2025 20:57:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /level [<>]
+[09Aug2025 20:57:57.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /levelling [<>]
+[09Aug2025 20:57:57.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[09Aug2025 20:57:57.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|pixelmon:badlands_den|pixelmon:badlands_way_point|pixelmon:beach_den|pixelmon:boats|pixelmon:crater_geyser|pixelmon:desert_den|pixelmon:desert_way_point|pixelmon:dos_shrine|pixelmon:end_den|pixelmon:forest_den|pixelmon:forest_way_point|pixelmon:graveyard|pixelmon:grotto_badlands|pixelmon:grotto_dark_forest|pixelmon:grotto_desert|pixelmon:grotto_end|pixelmon:grotto_forest|pixelmon:grotto_hills|pixelmon:grotto_icy|pixelmon:grotto_jungle|pixelmon:grotto_mushroom|pixelmon:grotto_nether|pixelmon:grotto_oceans|pixelmon:grotto_plains|pixelmon:grotto_savanna|pixelmon:grotto_swamp|pixelmon:grotto_taiga|pixelmon:grotto_ultra_deep_sea|pixelmon:grotto_ultra_desert|pixelmon:grotto_ultra_forest|pixelmon:grotto_ultra_jungle|pixelmon:grotto_ultra_plant|pixelmon:gyms|pixelmon:haunted_tower|pixelmon:ice_den|pixelmon:ice_way_point|pixelmon:ilex_shrine|pixelmon:jungle_den|pixelmon:jungle_way_point|pixelmon:land_chalice|pixelmon:mountain_den|pixelmon:mountain_way_point|pixelmon:mushroom_den|pixelmon:mushroom_way_point|pixelmon:nether_den|pixelmon:plains_den|pixelmon:plains_way_point|pixelmon:plasma_ship|pixelmon:pumpkin_house|pixelmon:savanna_way_point|pixelmon:snow_den|pixelmon:spear_pillar|pixelmon:swamp_den|pixelmon:swamp_way_point|pixelmon:taiga_den|pixelmon:tower_darkness|pixelmon:tower_water|pixelmon:tres_shrine|pixelmon:ultra_crater_den|pixelmon:ultra_deep_sea_den|pixelmon:ultra_desert_deco|pixelmon:ultra_desert_den|pixelmon:ultra_forest_den|pixelmon:ultra_jungle_deco|pixelmon:ultra_jungle_den|pixelmon:ultra_plant_den|pixelmon:uno_shrine|pixelmon:water_chalice|pixelmon:water_den|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[09Aug2025 20:57:57.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[09Aug2025 20:57:57.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (give|insert|replace|spawn)
+[09Aug2025 20:57:57.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /markcharm [<>]
+[09Aug2025 20:57:57.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[09Aug2025 20:57:57.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /megaring [<>]
+[09Aug2025 20:57:57.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /movelist [<>]
+[09Aug2025 20:57:57.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[09Aug2025 20:57:57.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /npckill [<>]
+[09Aug2025 20:57:57.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /npkill [<>]
+[09Aug2025 20:57:57.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[09Aug2025 20:57:57.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ovalcharm [<>]
+[09Aug2025 20:57:57.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[09Aug2025 20:57:57.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[09Aug2025 20:57:57.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[09Aug2025 20:57:57.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pc [<>]
+[09Aug2025 20:57:57.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pcedit [<>]
+[09Aug2025 20:57:57.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pcompsearch [<>]
+[09Aug2025 20:57:57.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pcompsee [<>]
+[09Aug2025 20:57:57.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pctake [<>]
+[09Aug2025 20:57:57.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pevolve [<>]
+[09Aug2025 20:57:57.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pgift [<>]
+[09Aug2025 20:57:57.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /phatch [<>]
+[09Aug2025 20:57:57.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pkill [<>]
+[09Aug2025 20:57:57.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[09Aug2025 20:57:57.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /plevel [<>]
+[09Aug2025 20:57:57.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /plevelling [<>]
+[09Aug2025 20:57:57.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokebattle [<>]
+[09Aug2025 20:57:57.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokebomb [<>]
+[09Aug2025 20:57:57.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokeclone [<>]
+[09Aug2025 20:57:57.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokecolor [<>]
+[09Aug2025 20:57:57.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokecompsearch [<>]
+[09Aug2025 20:57:57.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokecompsee [<>]
+[09Aug2025 20:57:57.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokedel [<>]
+[09Aug2025 20:57:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokeedit [<>]
+[09Aug2025 20:57:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokeevolve [<>]
+[09Aug2025 20:57:57.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokefaint [<>]
+[09Aug2025 20:57:57.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokegift [<>]
+[09Aug2025 20:57:57.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokegive [<>]
+[09Aug2025 20:57:57.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokehatch [<>]
+[09Aug2025 20:57:57.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokeheal [<>]
+[09Aug2025 20:57:57.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokekill [<>]
+[09Aug2025 20:57:57.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokepc [<>]
+[09Aug2025 20:57:57.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokereset [<>]
+[09Aug2025 20:57:57.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokerestart [<>]
+[09Aug2025 20:57:57.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokeretrieve [<>]
+[09Aug2025 20:57:57.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokesee [<>]
+[09Aug2025 20:57:57.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokesell [<>]
+[09Aug2025 20:57:57.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokespawn [<>]
+[09Aug2025 20:57:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pokestats [<>]
+[09Aug2025 20:57:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /poketake [<>]
+[09Aug2025 20:57:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /poketest [<>]
+[09Aug2025 20:57:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ppc [<>]
+[09Aug2025 20:57:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /preset [<>]
+[09Aug2025 20:57:57.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /prestart [<>]
+[09Aug2025 20:57:57.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pretrieve [<>]
+[09Aug2025 20:57:57.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /psell [<>]
+[09Aug2025 20:57:57.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pstarter [<>]
+[09Aug2025 20:57:57.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /questdata [<>]
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /redeemfossil [<>]
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /redirect -> serverredirect
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reloadmoveanimation [<>]
+[09Aug2025 20:57:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reloadmoveanimations [<>]
+[09Aug2025 20:57:57.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reloadquests [<>]
+[09Aug2025 20:57:57.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
+[09Aug2025 20:57:57.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /resetallquests [<>]
+[09Aug2025 20:57:57.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /resetpokestats [<>]
+[09Aug2025 20:57:57.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /restorefossil [<>]
+[09Aug2025 20:57:57.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[09Aug2025 20:57:57.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[09Aug2025 20:57:57.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[09Aug2025 20:57:57.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[09Aug2025 20:57:57.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (clear|function)
+[09Aug2025 20:57:57.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[09Aug2025 20:57:57.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[09Aug2025 20:57:57.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /serverredirect <Player(s)> <Server Address>
+[09Aug2025 20:57:57.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[09Aug2025 20:57:57.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[09Aug2025 20:57:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setparty [<>]
+[09Aug2025 20:57:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setraid [<>]
+[09Aug2025 20:57:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setstage [<>]
+[09Aug2025 20:57:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[09Aug2025 20:57:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /shinycharm [<>]
+[09Aug2025 20:57:57.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawning [<>]
+[09Aug2025 20:57:57.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnlegendary [<>]
+[09Aug2025 20:57:57.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[09Aug2025 20:57:57.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<>|<target>]
+[09Aug2025 20:57:57.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectest [<>]
+[09Aug2025 20:57:57.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[09Aug2025 20:57:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /starter [<>]
+[09Aug2025 20:57:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[09Aug2025 20:57:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[09Aug2025 20:57:57.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[09Aug2025 20:57:57.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
+[09Aug2025 20:57:57.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tcg [<>]
+[09Aug2025 20:57:57.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teach [<>]
+[09Aug2025 20:57:57.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
+[09Aug2025 20:57:57.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[09Aug2025 20:57:57.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
+[09Aug2025 20:57:57.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[09Aug2025 20:57:57.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[09Aug2025 20:57:57.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tiershow [<>]
+[09Aug2025 20:57:57.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
+[09Aug2025 20:57:57.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[09Aug2025 20:57:57.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[09Aug2025 20:57:57.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tms [<>]
+[09Aug2025 20:57:57.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tradesim [<>]
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /transfer [<>]
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /warpplate [<>]
+[09Aug2025 20:57:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /waypoint (create|delete)
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /wiki [<>]
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /wp -> waypoint
+[09Aug2025 20:57:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[09Aug2025 20:58:32.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Aug2025 20:58:32.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: server off<--[HERE]
+[09Aug2025 20:58:42.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Aug2025 20:58:42.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: turn off<--[HERE]
